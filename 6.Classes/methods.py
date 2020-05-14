@@ -9,7 +9,6 @@ class Duck:
 
     def walk(self):
         print('Walks like a duck.')
-
 def main():
     donald = Duck(22)
     joe = Duck(100)
